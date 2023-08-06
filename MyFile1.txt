@@ -2,8 +2,7 @@
 
 2. Second Line
 
-3. Delete in Local
-
+3. Add on Server
 
 4. Add From Local Git
 
