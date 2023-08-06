@@ -2,7 +2,8 @@
 
 2. Second Line
 
-3. Try to Add Third Line from Local
+3. Delete in Local
+
 
 4. Add From Local Git
 
