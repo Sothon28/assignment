@@ -2,8 +2,7 @@
 
 2. Second Line
 
-3. Delete in Local
-
+3. add in Local
 
 4. Add From Local Git
 
